@@ -1,6 +1,4 @@
 # code-review-tool
-
-codereview tool
 ==========
 
 Instructions:
