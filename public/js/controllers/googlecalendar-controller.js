@@ -5,7 +5,7 @@ var app=angular.module("myApp.controllers.googlecalendar",[])
         $rootScope.authenticatedCalendar=false;
 
         var socket = io.connect();
-        var CLIENT_ID = '440571380081-njl8o8khgj7c8unujcpa210rfb443h4v.apps.googleusercontent.com';
+        var CLIENT_ID = 'xxxxxx';
         var SCOPES = ['https://www.googleapis.com/auth/calendar'];
         console.log('Google Drive controller has booted up');
 
