@@ -5,7 +5,7 @@ var app=angular.module("myApp.controllers.googledrive",[])
         $rootScope.authenticated=false;
 
         var socket = io.connect();
-        var CLIENT_ID = 'xxxx';
+        var CLIENT_ID = '440571380081-njl8o8khgj7c8unujcpa210rfb443h4v.apps.googleusercontent.com';
         var SCOPES = ['https://www.googleapis.com/auth/drive.file'];
 
         console.log('Google Drive controller has booted up');

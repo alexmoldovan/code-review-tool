@@ -1,6 +1,8 @@
 # code-review-tool
 ==========
 
+My MSc thesis project. Really messy code but cool app nonetheless.
+
 Instructions:
 
 * Install server-side (npm install)
